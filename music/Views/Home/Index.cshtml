@@ -1,0 +1,46 @@
+﻿@model music.Models.MainPageViewModel
+
+<div class="row">
+    <div class="col-md-12">
+        <h2 class="text-center">Music Video Streaming Platform</h2>
+    </div>
+</div>
+
+<div class="row my-4">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Total Artists</h5>
+                <p class="card-text">@Model.ArtistCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Total Genres</h5>
+                <p class="card-text">@Model.GenreCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Total Songs</h5>
+                <p class="card-text">@Model.SongCount</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row my-4">
+    <div class="col-md-4 text-center">
+        <a class="btn btn-primary" asp-controller="Artists" asp-action="Index">Artists</a>
+    </div>
+    <div class="col-md-4 text-center">
+        <a class="btn btn-primary" asp-controller="Genres" asp-action="Index">Genres</a>
+    </div>
+    <div class="col-md-4 text-center">
+        <a class="btn btn-primary" asp-controller="MusicVideos" asp-action="Index">Music Videos</a>
+    </div>
+</div>

@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = music
+build_property.RootNamespace = music
+build_property.ProjectDir = C:\Users\stamb\source\repos\music\music\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\stamb\source\repos\music\music
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/stamb/source/repos/music/music/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Artists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Artists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Artists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Artists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Artists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Genres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/MusicVideos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNWaWRlb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/MusicVideos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNWaWRlb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/MusicVideos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNWaWRlb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/MusicVideos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNWaWRlb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/MusicVideos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNWaWRlb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stamb/source/repos/music/music/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3bixdrcvuj
